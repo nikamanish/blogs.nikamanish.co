@@ -76,7 +76,8 @@ branch: master
 relative_source: ./
 destination: ../nikamanish.github.io/
 production_url:  http://nikamanish.io/
-source_url:  https://github.com/jekyller/jasper2/
+source_url: https://github.com/nikamanish/nikamanish.github.io
+permalink: /:year/:month/:day/:title/
 
 exclude:
   - assets/css
