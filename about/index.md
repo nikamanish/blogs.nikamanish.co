@@ -34,7 +34,7 @@ I design UI/UX and develop graphics related to them. I majorly make use of the v
 Take a look!
 
 <div style='display: flex; flex-wrap: wrap;'>
-    <img class='round-corners' width: 250px;" height='250px' src='/assets/images/face.jpg' />
+    <img class='round-corners' style="border-radius: 15px" width='250px;' height='250px' src='/assets/images/face.jpg' />
     <img class='round-corners' style="border-radius: 15px"  height='250px' src='/assets/images/setup.jpg' />
 </div>
 
