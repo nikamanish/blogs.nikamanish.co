@@ -29,7 +29,7 @@ disqus: True
 disqus_shortname: nikamanish
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-151033409-1 # replace with your GA tracking identifier
 
 # Permalinks
 # permalink: /author/:author
